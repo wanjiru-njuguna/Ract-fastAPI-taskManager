@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/wanjiru/Desktop/react-fast api task manager/backend/.venv/bin/python3.12" "$0" "$@"
-' '''
+#!/Users/wanjiru/Desktop/React&fastAPI/backend/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
